@@ -1,0 +1,19 @@
+h1 {
+  color: red;
+}
+
+.colleges li {
+  background-color: #c83;
+}
+
+.topics li {
+  list-style-type: none;
+}
+
+div figure img {
+  max-width: 300px;
+}
+figure{
+  display: inline-block;
+  margin: 20px;
+}
